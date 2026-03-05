@@ -1,2 +1,2 @@
 # designbox
-Experimenting with AI to Design &amp; Code
+Experimenting with AI to Design and Code
